@@ -1,0 +1,128 @@
+body {
+  padding: 10px auto;
+  background-color: #feffde;
+  font-family: 'Roboto', sans-serif;
+
+}
+.name{
+  margin-left: 4px;
+}
+.fa-user {
+  margin-left: 4px;
+}
+.fa-envelope {
+  margin-left: 4px;
+}
+.wrapper {
+  background-color: #ddffbc;
+  margin-left: 500px;
+  width: 40%;
+  padding: 15px 0px 15px 50px;
+
+
+}
+.wrapper h2 {
+  border: 1px dotted;
+  color: #52734d;
+  font-weight: bolder;
+  text-align: center;
+  width: 50%;
+  padding-left: 0px;
+  display: inline;
+
+}
+.wrapper h4 {
+  color: #52734d;
+  font-weight: normal;
+  Margin-bottom: 1.4px;
+
+}
+.input-group {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  position: relative;
+  margin-bottom: 8px;
+
+}
+.dob {
+  margin-right: 50px;
+  margin-bottom: 3px;
+}
+
+
+
+}
+select {
+  margin-bottom: px;
+  padding-left: 10px;
+}
+button {
+  background-color: #52734d;
+  border-radius: 8px;
+  margin-top: 8px;
+padding: 5px;
+  font-weight: bold;
+
+}
+button:hover {
+  background-color: #289672;
+}
+
+@media screen and (min-width: 500px){
+  body {
+    padding: 10px auto;
+    background-color: #feffde;
+    font-family: 'Roboto', sans-serif;
+
+  }
+  .wrapper {
+    background-color: #ddffbc;
+    margin-left: 10px;
+    width: 90%;
+    padding: 15px;
+
+
+  }
+  .wrapper h2 {
+    border: 1px dotted;
+    color: #52734d;
+    font-weight: bolder;
+    text-align: center;
+
+  }
+  .wrapper h4 {
+    color: #52734d;
+    font-weight: bolder;
+    Margin-bottom: 1.4px;
+
+  }
+
+
+
+
+
+}
+
+
+/* .input-box {padding: 2px;}
+
+
+
+}
+.dob {
+  margin: 5px;
+}
+.name {
+
+}
+
+.fa {
+  margin-bottom: 8px;
+
+}
+input-group {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+} */
